@@ -1,0 +1,22 @@
+style
+html {
+    font-family: sans-serif;
+  }
+
+
+  body {
+    width: 50%;
+    max-width: 1000px;
+    min-width: 480px;
+    margin: 0 auto;
+    /*background-image: url(http://www.vokrugsveta.ru/img/bx/iblock/a37/a3797ee4a8907b4e40cc2b8e7110be4f.jpg);*/
+  
+  }
+ #back {
+     background-image: url(http://www.vokrugsveta.ru/img/bx/iblock/a37/a3797ee4a8907b4e40cc2b8e7110be4f.jpg);
+ }
+
+  #inputNum{
+    color: rgb(165, 17, 17);
+    padding: 3px;
+  }
